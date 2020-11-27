@@ -1,5 +1,13 @@
 # Criando relatórios usando o Koolreport
 
+Uma ferramenta em PHP, flexível e com muitos recursos.
+
+Cria relstórios com diversos tipos de gráficos e customizável. Puxa os dados diretamente do banco de dados, que pode ser MySQL, Oracle, PostgreSQL, SQL Server, CSV, Excel, etc.
+
+Confira exemplos e outros recursos no site oficial:
+
+https://www.koolreport.com/
+
 Exemplo de criação de relatório tipo barras
 
 ## Banco - cars
