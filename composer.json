@@ -1,5 +1,5 @@
 {
-    "name": "koolreport/core",
+    "name": "ribafs/koolreport",
     "version":"5.0.0",
     "description": "An Open Source PHP Reporting Framework for easier and faster report delivery.",
     "keywords": ["php reporting framework","php reporting tools","data processing","data visualization","charts and graphs"],
@@ -10,6 +10,10 @@
         {
             "name": "KoolPHP Inc",
             "homepage": "https://www.koolphp.net"
+        },
+	{
+            "name": "Ribamar FS",
+            "homepage": "https://github.com/ribafs"
         }
     ], 
     "require":
