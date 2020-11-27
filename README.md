@@ -4,6 +4,9 @@
 
 [![View examples](https://www.koolreport.com/assets/images/reporting_system.png)](https://www.koolreport.com/examples)
 
+## Exemplos em Português
+
+[LEIAME](LEIAME.md)
 
 # Features
 
