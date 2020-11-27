@@ -8,7 +8,7 @@ Confira exemplos e outros recursos no site oficial:
 
 https://www.koolreport.com/
 
-Exemplo de criação de relatório tipo barras
+No aprendizado criei alguns exemplos simples e bem customizados, gráficos de barra, colunas e pizza (mas existem outros tipos). Customizei as barras, colorindo cada uma com uma cor diferente. Confira abaixo. Também ofereço dois exemplos prontos, resultado do meu aprendizado, na pasta exemplos.
 
 ## Banco - cars
 ```sql
