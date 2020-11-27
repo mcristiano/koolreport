@@ -310,6 +310,30 @@ Mudar cada a cor de cada uma das colunas
     ?>
 ```
 
+## Usando com PostgreSQL
+
+Crie o banco no PostgreSQL e importe o script cars_pg.sql
+
+Então edite o arquivo CarsByColor.php e mude a função
+
+    function settings()
+    {
+        // Configuração do banco
+        return array(
+            "dataSources"=>array(
+                "cars_date"=>array(
+                    "connectionString"=>"pgsql:host=localhost;dbname=cars",
+                    "username"=>"postgres",
+                    "password"=>"postgres",
+                    "charset"=>"utf8"
+                ),
+            )
+        ); 
+    }
+
+Já pode chamar pelo navegador.
+
+
 ## Repositório
 
 https://github.com/ribafs/koolreport
