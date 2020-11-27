@@ -8,6 +8,10 @@ Confira exemplos e outros recursos no site oficial:
 
 https://www.koolreport.com/
 
+## Exemplos
+
+Trouxe dois exemplos, usando gráficos de coluna e pizza, customizando cores das colunas e com suporte a MySQL e PostgreSQL.
+
 No aprendizado criei alguns exemplos simples e bem customizados, gráficos de barra, colunas e pizza (mas existem outros tipos). Customizei as barras, colorindo cada uma com uma cor diferente. Confira abaixo. Também ofereço dois exemplos prontos, resultado do meu aprendizado, na pasta exemplos.
 
 ## Banco - cars
