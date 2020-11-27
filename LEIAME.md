@@ -67,9 +67,9 @@ Basta copiar, por exemplo os 3 arquivos do exemplo/CarsByDate para a pasta
 
 vendor/koolreport
 
-Criar o banco cars e importar o script da pasta
+Criar o banco cars e importar o script cars.sql da pasta exemplos
 
-exemplos/cars.sql
+Então configurar o banco no arquivo CarsByDate.php na função settings()
 
 Então já pode chamar pelo navegador
 
